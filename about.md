@@ -12,7 +12,7 @@ public: true
 
 - Email : 1107050213@qq.com
 
-- Blog : http://smallsand.github.io/
+- Blog : http://smallsand.tk/
 
 - GitHub : https://github.com/smallSand
 
