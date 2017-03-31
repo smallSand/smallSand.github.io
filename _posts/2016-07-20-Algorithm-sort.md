@@ -15,7 +15,7 @@ comments: true
 
 这个算法的名字由来是因为越大的元素会经由交换慢慢“浮”到数列的顶端，故名。
 
-![](http://smallsand.github.io/image/201111301912294589.gif)
+![](http://sml9520.oschina.io/smallsand/image/201111301912294589.gif)
 
 ## 算法原理
 

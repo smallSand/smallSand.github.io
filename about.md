@@ -87,4 +87,4 @@ public: true
   
   -------
   
- [下载简历](http://smallsand.github.io/image/about.pdf)
+ [下载简历](http://sml9520.oschina.io/smallsand/image/about.pdf)

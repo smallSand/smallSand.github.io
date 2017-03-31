@@ -9,4 +9,4 @@ comments: true
 
 # java学习路线图
 
- ![](http://smallsand.github.io/image/20160717192335.png)
+ ![](http://sml9520.oschina.io/smallsand/image/20160717192335.png)

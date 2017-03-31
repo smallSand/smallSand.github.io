@@ -23,4 +23,4 @@ comments: true
  
  在E盘没有任何目录的情况下，调用下面方法会生成
  
- ![](http://smallsand.github.io/image/20160713195027.png)
+ ![](http://sml9520.oschina.io/smallsand/image/20160713195027.png)
