@@ -13,4 +13,4 @@ comments: true
 
 式，当str为null时，后面的表达式不会执行，所以不会出现NullPointerException
 
-||可以作逻辑或运算符，表示逻辑或（or），当运算符有一边为true时，整个运算结果为true！
+&#124&#124可以作逻辑或运算符，表示逻辑或（or），当运算符有一边为true时，整个运算结果为true！
