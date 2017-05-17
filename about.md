@@ -59,7 +59,6 @@ public: true
   
   - 项目框架 : SpringMVC + Mybatis + angular
 
-
 **深圳永兴元科技有限公司** (2016/03/28  --  2016/09/06 )
 
 - 保易网
