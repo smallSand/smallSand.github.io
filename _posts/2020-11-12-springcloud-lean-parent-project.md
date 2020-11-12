@@ -10,14 +10,14 @@ comments: true
 # SpringCloud介绍
 SpringCloud是一个微服务架构解决方案的全家桶，里面集成了微服务架构所需要的全部组件，包括服务注册，服务调用，服务降级，服务网关，配置中心等重要组件
 
-##服务注册
+## 服务注册
 spring提供了实现 Spring Eureka Server,可惜这个项目已经进入维护阶段了，代码停止更新，所以出现了替代方案Zoopkeper,也可以代替 Spring Eureka Server服务注册中心，实现服务注册和治理的功能。当然还有几个服务注册中心的实现，例如Spring Cloud Consul和Alibaba的nacos 都是不错的选择。
 
-##服务调用
+## 服务调用
 
 restTemplate 和 openfeign
 
-##服务降级
+## 服务降级
 
 hystrix
 
@@ -28,11 +28,11 @@ hystrix
 ### 服务限流
 
 
-##服务网关
+## 服务网关
 
 nacos
 
-##配置中心
+## 配置中心
 
 Spring Cloud Config
 
