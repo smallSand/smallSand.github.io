@@ -4,7 +4,7 @@ title:  "java 下载网络文件的例子"
 date:   2016-07-09
 excerpt: "最近在网上爬取保险产品的数据，获得到了大量条款的URL连接,编写以下方法将文件下载到本地"
 categories:  Java I/O流  下载
-comments: true
+comments: false
 ---
 
 ## 编写辅助方法

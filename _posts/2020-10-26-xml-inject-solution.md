@@ -4,7 +4,7 @@ title:  "记一次生产环境XML注入问题发现与解决"
 date:    2020-10-26
 excerpt: "2020年10月22号客户想去更新loader name为 EPP-INV-SCAN 的Data Loader数据，发现open就报错了 'javaType cannot be null or empty'..."
 categories:  Java
-comments: true
+comments: false
 ---
 
 # Data Loader介绍

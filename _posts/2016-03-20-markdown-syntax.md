@@ -8,7 +8,7 @@ tag:
 - 语法
 - 测试
 - jekyll
-comments: true
+comments: false
 ---
 
 ## HTML 标签

@@ -4,7 +4,7 @@ title:  "转正申请"
 date:   2016-07-11
 excerpt: "最近准备转正了,写了个文档"
 categories:  随笔
-comments: true
+comments: false
 ---
 
 

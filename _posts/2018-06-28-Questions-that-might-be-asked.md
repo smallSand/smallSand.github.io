@@ -4,7 +4,7 @@ title:  "面试中可能问到的问题"
 date:    2018-06-28
 excerpt: "面试中可能问到的问题"
 categories:  Java
-comments: true
+comments: false
 ---
 
 # 简单自我介绍一下自己 #

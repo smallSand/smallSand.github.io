@@ -4,7 +4,7 @@ title:  "SpringCloud学习笔记之父工程的搭建"
 date:    2020-10-26
 excerpt: "最近微服务架构体系挺火的，从招聘网站上看对Java工程师的要求中都加入了有SpringCloud项目经验，熟悉SpringCloud的要求，所以打算利用空余时间记录下SpringCloud学习的过程"
 categories:  SpringCloud
-comments: true
+comments: false
 ---
 
 # SpringCloud介绍
