@@ -4,7 +4,7 @@ title:  "收藏一些比较酷的网站"
 date:   2016-07-12
 excerpt: "一些个人比较喜欢的网站,包含技术博客,技术论坛,值得学习的文章等等"
 categories:  酷站
-comments: true
+comments: false
 ---
 
 # 技术类

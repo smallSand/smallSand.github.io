@@ -4,7 +4,7 @@ title:  "postgreSQL 笔记"
 date:   2016-07-09
 excerpt: "最近一直在使用postgreSQL处理数据,记录下常用的操作,方便以后查询"
 categories:  postgreSQL 笔记  SQL
-comments: true
+comments: false
 ---
 
 # 字符串处理函数 #

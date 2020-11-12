@@ -4,7 +4,7 @@ title:  "maven错误处理记录"
 date:   2016-07-12
 excerpt: "maven报错处理"
 categories:  maven 笔记
-comments: true
+comments: false
 ---
 
 # 问题描述

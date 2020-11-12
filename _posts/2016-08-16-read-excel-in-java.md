@@ -4,7 +4,7 @@ title:  "通过java读取excel内容"
 date:    2016-08-16
 excerpt: "最近在写一个一个通过java 读取上传excel内容，并将数据存入数据库的方法，记录下自己的思路，与大家分享 "
 categories:  笔记 Java excel
-comments: true
+comments: false
 ---
 
 大体讲讲思路，首先是文件上传，获取到文件在服务器的路径，通过路径获取到`File`对象，得到文件的输入流`instream`,然后通过文件流获得`Workbook`对象，这个对象里面包含了Excel表格的数据，调用`getSheet()`可以得到当前的页数，调用`getColumns()`和`getRows()`得到表格的行数和列数,通过两层`for`循环遍历行和列，可以定位每一个单元格的位置，读取单元格的内容。

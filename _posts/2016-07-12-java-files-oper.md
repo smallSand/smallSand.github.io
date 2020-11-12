@@ -4,7 +4,7 @@ title:  "java文件操作"
 date:   2016-07-13
 excerpt: "今天使用java File 对象新建目录的时候时遇到的一些问题，记录一下"
 categories:  java 笔记
-comments: true
+comments: false
 ---
 
 使用java创建目录有`mkdir()`和`mkdirs()`两种方法,区分下两种方法的区别

@@ -4,7 +4,7 @@ title:  "知乎上精彩的回复"
 date:    2016-08-10
 excerpt: "记录在知乎上看到的精彩的回复"
 categories:  笔记
-comments: true
+comments: false
 ---
 
 

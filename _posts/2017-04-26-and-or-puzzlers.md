@@ -4,7 +4,7 @@ title:  "&& 和|| 的用法"
 date:    2017-04-26
 excerpt: "&&(与) 和||(或) 的用法 "
 categories:  Java
-comments: true
+comments: false
 ---
 
 &&可以用作逻辑与的运算符，表示逻辑与（and），当运算符两边的表达式的结果都为true时，整个运算结果才为true，否则，只要有一方为false，则结果为false。

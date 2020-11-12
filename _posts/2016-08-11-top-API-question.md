@@ -4,7 +4,7 @@ title:  "Stack Overflow 上排名前十的与API相关的问题"
 date:    2016-08-11
 excerpt: "从program greek 翻译 "
 categories:  笔记 翻译
-comments: true
+comments: false
 ---
 [原文链接](http://www.programcreek.com/2015/12/top-10-api-related-questions-from-stack-overflow)
 
