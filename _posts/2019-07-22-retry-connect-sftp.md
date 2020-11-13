@@ -4,7 +4,7 @@ title:  "连接SFTP失败重试机制"
 date:    2019-07-22
 excerpt: "连接SFTP失败重试机制"
 categories:  Java
-comments: false
+comments: true
 ---
 
 # 连接SFTP失败重试机制 #
