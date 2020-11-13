@@ -10,9 +10,12 @@ comments: false
 # 创建注册中心模块
 
 选中父工程->右键->Maven->New Maven Module Project
+
 artifactId : sping-eureka-server
 
 ## 改pom.xml
+
+因为我们在父工程中引入了dependencyManagement的节点，里面定义了依赖的版本号，所以子工程中引入依赖的时候不需要再定义版本号
 
 {% highlight XML %}
 	
@@ -115,5 +118,11 @@ artifactId : sping-eureka-server
 
 {% endhighlight java %}
 
+# 启动注册中心模块
 
+右键SpingEurekaServerMain3000->run as->Java Application
+
+打开浏览器，输入http://localhost:3000，输入配置中定义的用户名和密码，如果可以进入注册中心的控制台，说明我们注册中心搭建成功
+
+![](https://smallsand.github.io/image/spring-eureka.png)
 
