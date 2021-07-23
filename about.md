@@ -12,7 +12,7 @@ public: true
 
 - Email : 1107050213@qq.com
 
-- Blog : http://smallsand.tk/
+- Blog : https://smallsand.github.io
 
 - GitHub : https://github.com/smallSand
 
@@ -22,21 +22,23 @@ public: true
 
 - 全日制本科/江汉大学2012级/物理与信息工程学院
 
-- 工作年限: 1年+ ,做过测试，开发，运营
+- 工作年限: 5年 Java研发工程师
 
-- 期望职业： Java 开发/架构/项目管理/DBA
+- 期望职业： Java 开发/架构/项目管理
 
-- 期望城市： 武汉/上海/北京/深圳/广州
+- 期望城市： 武汉
 
-- 期望公司：5天制,可接受加班,非外包、有明确的发展理念的互联网公司,
+- 期望公司：5天制,可接受加班,非外包、有明确的发展理念的互联网公司
 
 ## 个人评价
 
-- Java 语言扎实，熟悉 IO流、多线程、集合、网络编程等；
+- Java 语言扎实，熟悉 IO、多线程、集合、网络编程，微服务开发技术等
 
-- 一年及以上 Java SE/EE 开发的经验，接触过 Spring/Hibernate/MyBatis/Struts/Jfinal等开源框架，使用过过 HTML/JS/Bootstrap/CSS/AngularJS/JQuery/avalon/fis等客户端技术完成开发，有一定快速解决技术问题的能力,使用过Mysql/postgre/Oracle等数据库，具备编写PL/SQl、pg/sql等过程语言的能力；
+- 五年Java SE/EE 后端开发的经验，运用过 Spring/Hibernate/MyBatis/Struts/Jfinal等开源框架，使用过
+HTML/JS/Bootstrap/CSS/AngularJS/JQuery等客户端技术完成开发，有一定快速解决技术问题的能力,使用过
+Mysql/postgre/Oracle等数据库，具备编写PL/SQl、 pg/sql等过程语言的能力
 
-- 喜欢了解及尝试最新的技术，追求代码规范，爱好开源，乐于技术分享;
+- 喜欢了解及尝试最新的技术，追求代码规范，爱好开源，乐于技术分享，对企业忠诚,可接受加班
 
 - 在大学期间，一直热爱计算机学习，取得计算机二级C证书，运用自学编程知识,开发出论文管理系统,获得学院优秀毕业论文奖项;
 
@@ -95,6 +97,3 @@ public: true
 
   - 项目描述: 微信自动回复机器人,通过实现微信订阅号的消息接口,获取用户发送消息,根据消息类型请求,请求图灵和有道翻译API接口来获取数据返回给用户
   
-  -------
-  
- [下载简历](http://sml9520.oschina.io/smallsand/image/about.pdf)
