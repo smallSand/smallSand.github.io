@@ -11,3 +11,8 @@ comments: false
 
 [goto](https://smallsand.github.io/archivers/how-to-track-when-java-project-started-cpu100)
 
+# 知道MyBatis的流式查询么，什么时候使用
+
+[goto](https://smallsand.github.io/archivers/mybatis-stream-query)
+
+
